@@ -1,0 +1,266 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/user/Documents/s228 a7000 a/installed-files.txt",
+			"settings":
+			{
+				"buffer_size": 109128,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 184.0,
+		"last_filter": "Package Control: add",
+		"selected_items":
+		[
+			[
+				"Package Control: add",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/user/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/user/Documents/s228 a7000 a/build.prop",
+		"/home/user/.cache/.fr-Jywnsc/tools/updater/data-set_metadata.txt",
+		"/home/user/.cache/.fr-ZYU6li/tools/img2sdat/README.md",
+		"/home/user/Documents/sessions.txt",
+		"/home/user/Documents/s228 a7000 a/system_image_info.txt",
+		"/home/user/Documents/teamwin recovery/TWRP_boot_root_S228/MT6752_Android_scatter.txt",
+		"/home/user/Documents/teamwin recovery/TWRP_boot_root_S228/bootimg_tools_7.8.13/boot_info",
+		"/home/user/Documents/teamwin recovery/TWRP_boot_root_S228/bootimg_tools_7.8.13/split_boot",
+		"/home/user/.cache/.fr-xJQ9zs/tools/img2sdat/README.md",
+		"/home/user/.cache/.fr-lPOqHl/split_boot",
+		"/home/user/Documents/teamwin recovery/TWRP_boot_root_S228/bootimg_tools_7.8.13/mkbootimg",
+		"/media/user/Storage/02 Software & System/07 Lenovo/A7000-a_S228_160621_ROW/SW/target_bin/README",
+		"/media/user/Storage/02 Software & System/07 Lenovo/A7000-a_S228_160621_ROW/SW/apdb/APDB_MT6752_S01_alps-mp-m0.mp1_W16.01_ENUM",
+		"/home/user/Downloads/MP0B_001",
+		"/home/user/Downloads/SP_Flash_Tool_v5.1744_Linux/flash_tool.sh",
+		"/media/user/Storage/02 Software & System/07 Lenovo/A7000-a_S228_160621_ROW/SW/modemdb/README",
+		"/media/user/Storage/02 Software & System/07 Lenovo/Flash_Tool_Phonehorn.com/Flash Tool Phonehorn.com/MT6752_Android_scatter.txt",
+		"/home/user/.cache/.fr-8I7fwX/A7000-a_S228_160621_ROW/SW/target_bin/diagnosis/installed-files.txt",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fhome%252Fuser%252FDownloads%252FFedora-Workstation-Live-x86_64-27-1.6.iso/Fedora-Legal-README.txt",
+		"/media/user/User 8/02 User/01 ASUS/Downloads/BasiliskII_15_01_2010/BasiliskII/General documents/README",
+		"/media/user/MINIX/CD",
+		"/home/user/.cache/.fr-G55xEM/debian-testing-amd64-DVD-1.list",
+		"/var/lib/dpkg/status",
+		"/home/user/grub.cfg",
+		"/boot/config-4.4.0-91-generic",
+		"/boot/System.map-4.4.0-91-generic",
+		"/home/user/Downloads/jigdo-bin-0.7.3/README",
+		"/home/user/.cache/.fr-CN6gh9/debian-testing-amd64-BD-1.list",
+		"/media/user/root/etc/fstab",
+		"/home/user/Downloads/rEFInd icons/refit_triple_boot_theme_by_eliasgrande-d4ajerg/refit-theme/refit_content/refit.conf",
+		"/home/user/Downloads/rEFInd icons/rEFInd-minimal-dark-master/theme/theme.conf",
+		"/media/user/root/var/lib/dpkg/alternatives/emacs",
+		"/media/user/root/var/lib/dpkg/info/aewm.list",
+		"/media/user/root/var/lib/dpkg/info/aewm.conffiles",
+		"/media/user/root/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_xenial-security_main_binary-amd64_Packages",
+		"/media/user/root/var/log/syslog",
+		"/boot/refind-bin-0.10.9/refind-install",
+		"/boot/refind-bin-0.10.9/mkrlconf",
+		"/boot/refind-bin-0.10.9/docs/Styles/styles.css",
+		"/boot/refind-bin-0.10.9/docs/man/mkrlconf.8",
+		"/home/user/.cache/.fr-SuTxTK/Read me.txt",
+		"/media/user/OS 10/Users/mpots/Downloads/Boot_Disk_Utility/BootDiskUtility.ini",
+		"/media/user/Vista/10 Masstel n460/01 Adb Driver/Drivers_Android_WinUSB_ADB/android_winusb.inf",
+		"/media/user/Vista/10 Masstel n460/01 Adb Driver/android_spreadtrum_driver/How to Install.txt",
+		"/media/user/OS 10/Users/mpots/Downloads/All_Phones_Boot_Recovery_unpack_repack_tool/STD_pack.bat",
+		"/media/user/OS 10/Users/mpots/Downloads/All_Phones_Boot_Recovery_unpack_repack_tool/MTK_unpack.bat",
+		"/boot/System.map-4.4.0-66-generic"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"libpulse0",
+			"/",
+			"unknown Linux distribution"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Usb Debian System",
+			"Live Linux System"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/user/Documents/s228 a7000 a/installed-files.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 109128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LICENSE.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
